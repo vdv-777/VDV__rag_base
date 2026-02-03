@@ -1,0 +1,5 @@
+Датасет для расчета эмбеддингов для RAG - доступен по ссылке(распакуйте архив с датасетом в корень проекта):
+https://disk.yandex.ru/d/_hlESjxRVivrdg
+
+Готовые расчитанные эмбеддинги для RAG-модели(поместите в папку chache все скачанные файлы):
+https://drive.google.com/drive/folders/1N3nBWYHMcdtRhPH8kbvTA8KjEfAZrRkg?usp=sharing

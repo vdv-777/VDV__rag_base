@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "retrieval_model": "BAAI/bge-base-en-v1.5",
+    "reranker_model": "BAAI/bge-reranker-v2-m3",
+    "llm_model": "TinyLlama-1.1B (tinyllama)",
+    "retrieval_top_k": 20,
+    "rerank_top_k": 5,
+    "total_queries": 4,
+    "timestamp": "20260202_135020"
+  },
+  "results": [
+    {
+      "answer": "Jupyter is a free and open-source software environment for creating,\ncollaborating on, and reusing interactive data analysis notebooks. It is\ndesigned to make it easy to create and share interactive data visualizations,\ncode, and text, and to collaborate with others in real-time. Jupyter is based\non the Jupyter Notebook, which is a web-based text and code editor that\nintegrates with a variety of front-end tools, such as JupyterLab and the\nJupyterHub server. Jupyter is used in various scientific fields, such as\ndata science, machine learning, and computational biology, to facilitate the\ncollaborative and interactive exploration of large datasets. It has become a\nstandard tool for data science, and its popularity has led to the development\nof a wide range of extensions and add-ons that further enhance its capabilities.",
+      "sources": [
+        {
+          "rank": 1,
+          "doc_id": "2310.10886",
+          "title": "The Calysto Scheme Project",
+          "score": -3.3767
+        },
+        {
+          "rank": 2,
+          "doc_id": "2004.06280",
+          "title": "An Analysis of Python's Topics, Trends, and Technologies Through Mining\n  Stack Overflow Discussions",
+          "score": -7.2094
+        },
+        {
+          "rank": 3,
+          "doc_id": "1801.01634",
+          "title": "Python Leap Second Management and Implementation of Precise Barycentric\n  Correction (barycorrpy)",
+          "score": -8.0828
+        },
+        {
+          "rank": 4,
+          "doc_id": "1806.07809",
+          "title": "psrqpy: a python interface for querying the ATNF pulsar catalogue",
+          "score": -8.3483
+        },
+        {
+          "rank": 5,
+          "doc_id": "2101.01660",
+          "title": "pyUPMASK: an improved unsupervised clustering algorithm",
+          "score": -8.3866
+        }
+      ],
+      "processing_time_ms": 8066.68,
+      "context_used": "[1] Calysto Scheme is written in Scheme in Continuation-Passing Style, and\nconverted through a series of correctness-preserving program transformations\ninto Python. It has support for standard Scheme functionality, including\ncall/cc, as well as syntactic extensions, a nondeterministic operator for\nautomatic backtracking, and many extensions to allow...\n\n[2] Python is a popular, widely used, and general-purpose programming language.\nIn spite of its ever-growing community, researchers have not per...",
+      "query_id": 1,
+      "query": "What is Jupyter?"
+    },
+    {
+      "answer": "1. Modern material science has been revolutionized by the discovery of novel\ntopological states of quantum matter, which sheds new lights on solving long-standing scientific challenges.\n\n2. Review of prospects for discovery of new physics signals at LEP2. The areas covered include SUSY, exotic fermions, BESS models, leptoquarks, virtual effects and CP violating observables.\n\n3. Searches for physics beyond the Standard Model of particle physics are performed at accelerators worldwide. Although having poorer detection capabilities and large beam uncertainties, ultra high energy cosmic ray (UHECR) experiments present a unique opportunity to look for new physics far beyond the TeV.\n\n4. A brief survey is presented of new science that will emerge during the decades ahead from direct detection of gravitational radiation. Interferometers on earth and in space will probe the universe in an entirely new way by directly sensing motions of distant matter over a range of more than a million in frequency.\n\n5. The status of tests of the standard electroweak model and of searches for new physics in allowed nuclear $\\beta$ decay and neutron decay is reviewed including both theoretical and experimental developments. The sensitivity and complementarity of recent and ongoing experiments are discussed with emphasis on their potential to look for new physics.",
+      "sources": [
+        {
+          "rank": 1,
+          "doc_id": "2011.00411",
+          "title": "First-principles discovery of novel quantum physics and materials: From\n  theory to experiment",
+          "score": 0.4333
+        },
+        {
+          "rank": 2,
+          "doc_id": "hep-ph/9602207",
+          "title": "Searches For New Physics",
+          "score": -0.0853
+        },
+        {
+          "rank": 3,
+          "doc_id": "hep-ph/0508102",
+          "title": "Sensitivity of large air shower experiments for new physics searches",
+          "score": -0.5347
+        },
+        {
+          "rank": 4,
+          "doc_id": "0709.0608",
+          "title": "The New Science of Gravitational Waves",
+          "score": -0.8212
+        },
+        {
+          "rank": 5,
+          "doc_id": "1803.08732",
+          "title": "New physics searches in nuclear and neutron $\\beta$ decay",
+          "score": -1.7423
+        }
+      ],
+      "processing_time_ms": 10020.05,
+      "context_used": "[1] Modern material science has been revolutionized by the discovery of novel\ntopological states of quantum matter, which sheds new lights on solving\nlong-standing scientific challenges. However, the exotic quantum phenomena are\ntypically observable only in rare material systems under extreme experimental\nconditions. The search of suitable candidate...\n\n[2] Review of prospects for discovery of new physics signals at LEP2. The areas\ncovered include SUSY, exotic fermions, BESS models, leptoquarks,...",
+      "query_id": 2,
+      "query": "What's new in physics science explorations?"
+    },
+    {
+      "answer": "1. Genetic engineering of plants and animals\n2. Genetic engineering of microorganisms\n3. Genetic engineering of microbes for biotechnological purposes\n4. Genetic engineering of insects for pest control and crop improvement\n5. Genetic engineering of animals for medical and biotechnological purposes\n6. Genetic engineering of fish and other aquatic organisms\n7. Genetic engineering of livestock for food production and animal health\n8. Genetic engineering of plants for food production and biotechnological purposes\n9. Genetic engineering of microorganisms for biotechnological purposes\n10. Genetic engineering of insects for biotechnological purposes\n11. Genetic engineering of microbes for biotechnological purposes\n12. Genetic engineering of plants for biotechnological purposes\n13. Genetic engineering of microorganisms for biotechnological purposes\n14. Genetic engineering of insects for biotechnological purposes\n15. Genetic engineering of microbes for biotechnological purposes\n16. Genetic engineering of plants for biotechnological purposes\n17. Genetic engineering of microorganisms for biotechnological purposes\n18. Genetic engineering of insects for biotechnological purposes\n19. Genetic engineering of microbes for biotechnological purposes\n20. Genetic engineering of plants for biotechnological purposes\n\nBased on the given material, the most important directions in genetic engineering are:\n\n1. Genetic engineering of plants and animals\n2. Genetic engineering of microorganisms\n3. Genetic",
+      "sources": [
+        {
+          "rank": 1,
+          "doc_id": "1608.07371",
+          "title": "Tracing technological development trajectories: A genetic knowledge\n  persistence-based main path approach",
+          "score": -6.5609
+        },
+        {
+          "rank": 2,
+          "doc_id": "1308.2107",
+          "title": "Genetic information, physical interpreters and thermodynamics; the\n  material-informatic basis of biosemiosis",
+          "score": -7.2581
+        },
+        {
+          "rank": 3,
+          "doc_id": "q-bio/0312026",
+          "title": "A Computational Algebra Approach to the Reverse Engineering of Gene\n  Regulatory Networks",
+          "score": -7.8899
+        },
+        {
+          "rank": 4,
+          "doc_id": "2410.07814",
+          "title": "Near-ideal selection for the Standard Genetic Code",
+          "score": -8.3935
+        },
+        {
+          "rank": 5,
+          "doc_id": "0904.1161",
+          "title": "Genetic Code: The unity of the stereochemical determinism and pure\n  chance",
+          "score": -8.9564
+        }
+      ],
+      "processing_time_ms": 11085.53,
+      "context_used": "[1] The aim of this paper is to propose a new method to identify main paths in a\ntechnological domain using patent citations. Previous approaches for using main\npath analysis have greatly improved our understanding of actual technological\ntrajectories but nonetheless have some limitations. They have high potential to\nmiss some dominant patents from t...\n\n[2] The sequence of nucleotide bases occurring in an organism's DNA is often\nregarded as a codescript for its construction. However, informatio...",
+      "query_id": 3,
+      "query": "Tell me the most important directions in genetic engineering."
+    },
+    {
+      "answer": "1. Albert Einstein\n2. Max Planck\n3. Niels Bohr\n4. James Chadwick\n5. Enrico Fermi\n6. Richard Feynman\n7. Niels Bohr\n8. Werner Heisenberg\n9. Erwin Schrödinger\n10. Julian Schwinger",
+      "sources": [
+        {
+          "rank": 1,
+          "doc_id": "physics/0610054",
+          "title": "Julian Schwinger: Nuclear Physics, the Radiation Laboratory,\n  Renormalized QED, Source Theory, and Beyond",
+          "score": -3.1882
+        },
+        {
+          "rank": 2,
+          "doc_id": "2210.13967",
+          "title": "Satyendra Nath Bose: Quantum statistics to Bose-Einstein condensation",
+          "score": -3.5603
+        },
+        {
+          "rank": 3,
+          "doc_id": "1412.1410",
+          "title": "Memories of Julian Schwinger",
+          "score": -4.6565
+        },
+        {
+          "rank": 4,
+          "doc_id": "2306.14174",
+          "title": "Andreev hidden spinor coordinates: Standard Model, gravity and $^3$He",
+          "score": -4.7475
+        },
+        {
+          "rank": 5,
+          "doc_id": "1709.02284",
+          "title": "Classical electromagnetic potential as a part of gravitational\n  connection: ideas and history",
+          "score": -4.9553
+        }
+      ],
+      "processing_time_ms": 4134.7,
+      "context_used": "[1] Julian Schwinger's influence on twentieth century science is profound and\npervasive. Of course, he is most famous for his renormalization theory of\nquantum electrodynamics, for which he shared the Nobel Prize with Richard\nFeynman and Sin-itiro Tomonaga. But although this triumph was undoubtedly his\nmost heroic work, his legacy lives on chiefly th...\n\n[2] Satyendra Nath Bose is one of the great Indian scientists. His remarkable\nwork on the black body radiation or derivation of Planck's law le...",
+      "query_id": 4,
+      "query": "Tell me the 10 famous physicists."
+    }
+  ]
+}

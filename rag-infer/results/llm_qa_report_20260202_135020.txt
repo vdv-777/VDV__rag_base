@@ -1,0 +1,178 @@
+================================================================================
+ОТЧЁТ: ОТВЕТЫ LLM НА ОСНОВЕ СТАТЕЙ arXiv
+================================================================================
+Дата/время: 2026-02-02 13:50:53
+Модель поиска: BAAI/bge-base-en-v1.5
+Реранкер: BAAI/bge-reranker-v2-m3
+LLM для ответов: TinyLlama-1.1B-Chat (float16)
+Всего запросов: 4
+================================================================================
+
+✅ Успешно обработано: 4/4 запросов
+
+================================================================================
+
+ВОПРОС #1:
+  Вопрос: What is Jupyter?
+
+  ОТВЕТ:
+  Jupyter is a free and open-source software environment for creating,
+  collaborating on, and reusing interactive data analysis notebooks. It is
+  designed to make it easy to create and share interactive data visualizations,
+  code, and text, and to collaborate with others in real-time. Jupyter is based
+  on the Jupyter Notebook, which is a web-based text and code editor that
+  integrates with a variety of front-end tools, such as JupyterLab and the
+  JupyterHub server. Jupyter is used in various scientific fields, such as
+  data science, machine learning, and computational biology, to facilitate the
+  collaborative and interactive exploration of large datasets. It has become a
+  standard tool for data science, and its popularity has led to the development
+  of a wide range of extensions and add-ons that further enhance its capabilities.
+
+  Время генерации: 8066.68 мс
+
+  ИСТОЧНИКИ (статьи arXiv):
+
+    [1] 2310.10886 (score: -3.3767)
+        The Calysto Scheme Project
+
+    [2] 2004.06280 (score: -7.2094)
+        An Analysis of Python's Topics, Trends, and Technologies Through Mining
+  Stack Overflow Discussions
+
+    [3] 1801.01634 (score: -8.0828)
+        Python Leap Second Management and Implementation of Precise Barycentric
+  Correction (barycorrpy)
+
+    [4] 1806.07809 (score: -8.3483)
+        psrqpy: a python interface for querying the ATNF pulsar catalogue
+
+    [5] 2101.01660 (score: -8.3866)
+        pyUPMASK: an improved unsupervised clustering algorithm
+
+--------------------------------------------------------------------------------
+
+ВОПРОС #2:
+  Вопрос: What's new in physics science explorations?
+
+  ОТВЕТ:
+  1. Modern material science has been revolutionized by the discovery of novel
+  topological states of quantum matter, which sheds new lights on solving long-standing scientific challenges.
+  2. Review of prospects for discovery of new physics signals at LEP2. The areas covered include SUSY, exotic fermions, BESS models, leptoquarks, virtual effects and CP violating observables.
+  3. Searches for physics beyond the Standard Model of particle physics are performed at accelerators worldwide. Although having poorer detection capabilities and large beam uncertainties, ultra high energy cosmic ray (UHECR) experiments present a unique opportunity to look for new physics far beyond the TeV.
+  4. A brief survey is presented of new science that will emerge during the decades ahead from direct detection of gravitational radiation. Interferometers on earth and in space will probe the universe in an entirely new way by directly sensing motions of distant matter over a range of more than a million in frequency.
+  5. The status of tests of the standard electroweak model and of searches for new physics in allowed nuclear $\beta$ decay and neutron decay is reviewed including both theoretical and experimental developments. The sensitivity and complementarity of recent and ongoing experiments are discussed with emphasis on their potential to look for new physics.
+
+  Время генерации: 10020.05 мс
+
+  ИСТОЧНИКИ (статьи arXiv):
+
+    [1] 2011.00411 (score: 0.4333)
+        First-principles discovery of novel quantum physics and materials: From
+  theory to experiment
+
+    [2] hep-ph/9602207 (score: -0.0853)
+        Searches For New Physics
+
+    [3] hep-ph/0508102 (score: -0.5347)
+        Sensitivity of large air shower experiments for new physics searches
+
+    [4] 0709.0608 (score: -0.8212)
+        The New Science of Gravitational Waves
+
+    [5] 1803.08732 (score: -1.7423)
+        New physics searches in nuclear and neutron $\beta$ decay
+
+--------------------------------------------------------------------------------
+
+ВОПРОС #3:
+  Вопрос: Tell me the most important directions in genetic engineering.
+
+  ОТВЕТ:
+  1. Genetic engineering of plants and animals
+  2. Genetic engineering of microorganisms
+  3. Genetic engineering of microbes for biotechnological purposes
+  4. Genetic engineering of insects for pest control and crop improvement
+  5. Genetic engineering of animals for medical and biotechnological purposes
+  6. Genetic engineering of fish and other aquatic organisms
+  7. Genetic engineering of livestock for food production and animal health
+  8. Genetic engineering of plants for food production and biotechnological purposes
+  9. Genetic engineering of microorganisms for biotechnological purposes
+  10. Genetic engineering of insects for biotechnological purposes
+  11. Genetic engineering of microbes for biotechnological purposes
+  12. Genetic engineering of plants for biotechnological purposes
+  13. Genetic engineering of microorganisms for biotechnological purposes
+  14. Genetic engineering of insects for biotechnological purposes
+  15. Genetic engineering of microbes for biotechnological purposes
+  16. Genetic engineering of plants for biotechnological purposes
+  17. Genetic engineering of microorganisms for biotechnological purposes
+  18. Genetic engineering of insects for biotechnological purposes
+  19. Genetic engineering of microbes for biotechnological purposes
+  20. Genetic engineering of plants for biotechnological purposes
+  Based on the given material, the most important directions in genetic engineering are:
+  1. Genetic engineering of plants and animals
+  2. Genetic engineering of microorganisms
+  3. Genetic
+
+  Время генерации: 11085.53 мс
+
+  ИСТОЧНИКИ (статьи arXiv):
+
+    [1] 1608.07371 (score: -6.5609)
+        Tracing technological development trajectories: A genetic knowledge
+  persistence-based main path approach
+
+    [2] 1308.2107 (score: -7.2581)
+        Genetic information, physical interpreters and thermodynamics; the
+  material-informatic basis of biosemiosis
+
+    [3] q-bio/0312026 (score: -7.8899)
+        A Computational Algebra Approach to the Reverse Engineering of Gene
+  Regulatory Networks
+
+    [4] 2410.07814 (score: -8.3935)
+        Near-ideal selection for the Standard Genetic Code
+
+    [5] 0904.1161 (score: -8.9564)
+        Genetic Code: The unity of the stereochemical determinism and pure
+  chance
+
+--------------------------------------------------------------------------------
+
+ВОПРОС #4:
+  Вопрос: Tell me the 10 famous physicists.
+
+  ОТВЕТ:
+  1. Albert Einstein
+  2. Max Planck
+  3. Niels Bohr
+  4. James Chadwick
+  5. Enrico Fermi
+  6. Richard Feynman
+  7. Niels Bohr
+  8. Werner Heisenberg
+  9. Erwin Schrödinger
+  10. Julian Schwinger
+
+  Время генерации: 4134.7 мс
+
+  ИСТОЧНИКИ (статьи arXiv):
+
+    [1] physics/0610054 (score: -3.1882)
+        Julian Schwinger: Nuclear Physics, the Radiation Laboratory,
+  Renormalized QED, Source Theory, and Beyond
+
+    [2] 2210.13967 (score: -3.5603)
+        Satyendra Nath Bose: Quantum statistics to Bose-Einstein condensation
+
+    [3] 1412.1410 (score: -4.6565)
+        Memories of Julian Schwinger
+
+    [4] 2306.14174 (score: -4.7475)
+        Andreev hidden spinor coordinates: Standard Model, gravity and $^3$He
+
+    [5] 1709.02284 (score: -4.9553)
+        Classical electromagnetic potential as a part of gravitational
+  connection: ideas and history
+
+--------------------------------------------------------------------------------
+
